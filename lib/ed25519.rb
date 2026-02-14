@@ -3,6 +3,7 @@
 require "ed25519/version"
 require "ed25519/signing_key"
 require "ed25519/verify_key"
+require "ed25519/key_pair"
 
 # The Ed25519 digital signatre algorithm
 # rubocop:disable Layout/LineLength
