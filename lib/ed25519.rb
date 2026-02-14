@@ -5,7 +5,7 @@ require "ed25519/signing_key"
 require "ed25519/verify_key"
 require "ed25519/key_pair"
 
-# The Ed25519 digital signatre algorithm
+# The Ed25519 digital signature algorithm
 # rubocop:disable Layout/LineLength
 module Ed25519
   module_function
